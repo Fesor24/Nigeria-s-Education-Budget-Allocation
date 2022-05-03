@@ -21,3 +21,5 @@ After analysis, the data was imported to Tableau for visualization where we crea
 
 [Check out the Budget breakdown on Tableau](https://public.tableau.com/views/NigeriasEducationBudgetAllocation2000-2022/BudgetAllocationInNigeriasEducationalSector?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
+
+![](img/Budget%20Allocation%20In%20Nigeria's%20Educational Sector.png)
