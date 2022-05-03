@@ -20,3 +20,5 @@ The data was analysed with MySQL and prepared for visualization on Tableau
 After analysis, the data was imported to Tableau for visualization where we created a dashboard displaying a breakdown of Nigeria's Educational Budget Allocation.
 
 [Check out the Budget breakdown on Tableau](https://public.tableau.com/views/NigeriasEducationBudgetAllocation2000-2022/BudgetAllocationInNigeriasEducationalSector?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+![](img/Nigeria's%202019%20Presidential%20Elections.png)
